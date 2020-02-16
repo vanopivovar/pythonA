@@ -1,4 +1,4 @@
-# https://drive.google.com/file/d/1Z1G5SnQffbbGe1H_LmSDs0E9OXKBOimH/view?usp=sharing
+# https://drive.google.com/file/d/19NhwnyiIVXztaAH_Vyg1i7E3aIuNCyOS/view?usp=sharing
 # Начало
 # Присвоение значений задачи переменным
 # Вычисляем побитовое И
