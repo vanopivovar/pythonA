@@ -1,4 +1,4 @@
-# https://drive.google.com/file/d/18Y5RdidPwez5hSPwKeitOoI40BFTskNp/view?usp=sharing
+# https://drive.google.com/file/d/1RDI-9hn3TXUqXs23FFL6w3UhNQICaxRB/view?usp=sharing
 # Начало
 # Ввод трехзначного числа
 # Вычисляем первую цифру числа
