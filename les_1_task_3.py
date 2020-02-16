@@ -1,4 +1,4 @@
-# https://drive.google.com/file/d/1K_SZ2gKbSeYSa6dqWkjMO65fywiHJV1l/view?usp=sharing
+# https://drive.google.com/file/d/12ERjfIkv_Koc7r_4d6y30mAzpkBg_aDy/view?usp=sharing
 # Начало
 # Ввод координат x1, y1, x2, y2
 # Вычисляем угловой коэффициент k
